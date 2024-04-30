@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1713523867 source:c:\project\project55\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
+1713523972 c:\project\project55\camera.h
+
+1713524002 source:c:\project\project55\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1713524002 source:c:\project\lab5\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1713523972 c:\project\lab5\camera.h
+
+1713523867 source:c:\project\lab5\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
+1713524002 source:c:\users\student\downloads\lab5\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1713523972 c:\users\student\downloads\lab5\camera.h
+
+1713524002 source:c:\users\utvit\downloads\opengl-labs-main\5 lab\project\lab5\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1713523972 c:\users\utvit\downloads\opengl-labs-main\5 lab\project\lab5\camera.h
+
+1714103415 source:c:\users\utvit\downloads\opengl-labs-main\5 lab\project\lab5\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
+1713524002 source:c:\users\utvit\onedrive\Документы\РАБОТЫ -ИРНИТУ-\2 КУРС\Компьютерная графика\ЛР №5\kglab5\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1713523972 c:\users\utvit\onedrive\Документы\РАБОТЫ -ИРНИТУ-\2 КУРС\Компьютерная графика\ЛР №5\kglab5\camera.h
+
+1714498786 source:c:\users\utvit\onedrive\Документы\РАБОТЫ -ИРНИТУ-\2 КУРС\Компьютерная графика\ЛР №5\kglab5\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
